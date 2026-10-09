@@ -12,8 +12,8 @@
 
 ![Status](https://img.shields.io/badge/status-building_in_public-10B981?style=for-the-badge&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/focus-offensive_security-22D3EE?style=for-the-badge&labelColor=0D1117)
-![Cert](https://img.shields.io/badge/Cisco-Certified_Ethical_Hacker-A78BFA?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)
-![Cert](https://img.shields.io/badge/Robotics-Certified-22D3EE?style=for-the-badge&labelColor=0D1117)
+
+
 
 </div>
 
