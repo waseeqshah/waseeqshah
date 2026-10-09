@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**waseeqshah/waseeqshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/light.svg">
+  <img alt="waXee - Penetration Tester and Security Researcher" width="100%" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/dark.svg">
+</picture>
 
-Here are some ideas to get you started:
+<img width="100%" alt="terminal" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/terminal.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Status](https://img.shields.io/badge/status-building_in_public-10B981?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/focus-offensive_security-22D3EE?style=for-the-badge&labelColor=0D1117)
+![Cert](https://img.shields.io/badge/Cisco-Certified_Ethical_Hacker-A78BFA?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)
+![Cert](https://img.shields.io/badge/Robotics-Certified-22D3EE?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+### `$ ls ~/skills`
+
+<div align="center">
+<img width="100%" alt="skills" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/skills.svg">
+</div>
+
+<br/>
+
+### `$ git log --stat`
+
+<div align="center">
+<img width="100%" alt="GitHub stats" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/stats.svg">
+</div>
+
+<br/>
+
+### `$ tail -f contributions.log`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waseeqshah/waseeqshah/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waseeqshah/waseeqshah/output/github-snake.svg">
+  <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/output/github-snake.svg">
+</picture>
+</div>
+
+<br/>
+
+### `$ ./connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/syed-waseeq-shafqat-569050374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/_waseeqshah_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0D1117" alt="Instagram"></a>
+&nbsp;&nbsp;
+<a href="mailto:waseeqshah23@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0D1117" alt="Email"></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=waseeqshah&color=22D3EE&style=flat-square&label=profile+views" alt="profile views">
+
+</div>
