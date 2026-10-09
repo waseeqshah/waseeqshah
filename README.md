@@ -51,14 +51,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-waseeq-shafqat-569050374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/syed-waseeq-shafqat-569050374/"><img height="56" alt="LinkedIn" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/btn-linkedin.svg"></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/_waseeqshah_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0D1117" alt="Instagram"></a>
+<a href="https://www.instagram.com/_waseeqshah_/"><img height="56" alt="Instagram" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/btn-instagram.svg"></a>
 &nbsp;&nbsp;
-<a href="mailto:waseeqshah23@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0D1117" alt="Email"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=waseeqshah&color=22D3EE&style=flat-square&label=profile+views" alt="profile views">
+<a href="mailto:waseeqshah23@gmail.com"><img height="56" alt="Email" src="https://raw.githubusercontent.com/waseeqshah/waseeqshah/main/btn-email.svg"></a>
 
 </div>
